@@ -1,0 +1,22 @@
+{
+    "name": "choate/yii2-ladda-bootstrap",
+    "type": "library",
+    "description": "Yii2 Ladda Bootstrap",
+    "require": {
+        "yiisoft/yii2-bootstrap": "^2.0",
+        "bower-asset/ladda-bootstrap": "^0.1.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Choate",
+            "email": "choate.yao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "choate\\yii2\\laddabootstrap\\": "src"
+        }
+    }
+}
